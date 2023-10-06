@@ -48,6 +48,4 @@
 ![Screenshot (20)](https://github.com/egwuatujoy/learn_git/assets/129065641/513b814b-fca1-40e7-af47-c10160e4513e)
 
 # Write the appropriate command to list all the global configurations for git on your machine,You can type git config--global
-
-![Screenshot (24)](https://github.com/egwuatujoy/learn_git/assets/129065641/25194a4e-01f1-4323-8660-b4c5f9b3efa4)
-
+![Screenshot (22)](https://github.com/egwuatujoy/learn_git/assets/129065641/60e867e1-314a-4592-b314-073d7e182ab0)
