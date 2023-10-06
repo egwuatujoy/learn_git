@@ -12,7 +12,7 @@
 ![Screenshot (10)](https://github.com/egwuatujoy/learn_git/assets/129065641/14a23f2e-c9d5-4ab1-9502-0fa70fcb2f66)
 
 # Initialize an empty git repository
-# by using git init 
+# by writing git init 
 
 # Add third.txt to the staging area
 ![Screenshot (10)](https://github.com/egwuatujoy/learn_git/assets/129065641/4c0f0d20-3cd4-4266-be4c-44df79391c40)
